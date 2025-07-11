@@ -1,0 +1,15 @@
+C:\Users\leanl\source\repos\AppUsuarios\AppUsuarios\bin\Debug\AppUsuarios.exe.config
+C:\Users\leanl\source\repos\AppUsuarios\AppUsuarios\bin\Debug\AppUsuarios.exe
+C:\Users\leanl\source\repos\AppUsuarios\AppUsuarios\bin\Debug\AppUsuarios.pdb
+C:\Users\leanl\source\repos\AppUsuarios\AppUsuarios\obj\Debug\AppUsuarios.csproj.AssemblyReference.cache
+C:\Users\leanl\source\repos\AppUsuarios\AppUsuarios\obj\Debug\AppUsuarios.LoginForm.resources
+C:\Users\leanl\source\repos\AppUsuarios\AppUsuarios\obj\Debug\AppUsuarios.Properties.Resources.resources
+C:\Users\leanl\source\repos\AppUsuarios\AppUsuarios\obj\Debug\AppUsuarios.csproj.GenerateResource.cache
+C:\Users\leanl\source\repos\AppUsuarios\AppUsuarios\obj\Debug\AppUsuarios.csproj.CoreCompileInputs.cache
+C:\Users\leanl\source\repos\AppUsuarios\AppUsuarios\obj\Debug\AppUsuarios.exe
+C:\Users\leanl\source\repos\AppUsuarios\AppUsuarios\obj\Debug\AppUsuarios.pdb
+C:\Users\leanl\source\repos\AppUsuarios\AppUsuarios\obj\Debug\AppUsuarios.exe.config
+C:\Users\leanl\source\repos\AppUsuarios\AppUsuarios\obj\Debug\AppUsuarios.AdminForm.resources
+C:\Users\leanl\source\repos\AppUsuarios\AppUsuarios\obj\Debug\AppUsuarios.EditarUsuarioForm.resources
+C:\Users\leanl\source\repos\AppUsuarios\AppUsuarios\obj\Debug\AppUsuarios.UsuarioForm.resources
+C:\Users\leanl\source\repos\AppUsuarios\AppUsuarios\obj\Debug\AppUsuarios.RecuperarContraseñaForm.resources
